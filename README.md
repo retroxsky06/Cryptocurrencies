@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Analyzing Cryptocurrency Data with Unsupervised Learning
 
 ## Project Overview
 The purpose of this project is to analyze cryptocurreny data using unsupervised learning.
