@@ -9,7 +9,7 @@ The purpose of this project is to create a report that includes what cryptocurre
 - Deliverable 2: Reducing Data Dimensions Using PCA
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
-- 
+
 ### Software & Resources
 - Python 
 - scikit-learn 
