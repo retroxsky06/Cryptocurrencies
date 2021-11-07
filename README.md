@@ -1,9 +1,7 @@
 # Analyzing Cryptocurrency Data with Unsupervised Learning
 
 ## Project Overview
-A fictional investment bank company, "Accountability Accounting", is interested in offering a new cryptocurrency investment portfolio for its customers. 
-
-The purpose of this project is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. The [crypto_data]()is preprocessed through Pandas to fit into Unsupervised Machine Learning models.  Clustering is utilized to group the data and hvPlot visualization is applied.  
+A fictional investment bank company, "Accountability Accounting," is interested in offering a new cryptocurrency investment portfolio for its customers. The purpose of this project is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new cryptocurency investment. The [crypto_data](https://github.com/retroxsky06/Cryptocurrencies/blob/main/crypto_data.csv) is preprocessed through Pandas to fit into Unsupervised Machine Learning models. Clustering is utilized to group the data and hvPlot visualization is applied.  
 
 #### Technical Analysis Deliverables
 - Deliverable 1: Preprocessing the Data for PCA
